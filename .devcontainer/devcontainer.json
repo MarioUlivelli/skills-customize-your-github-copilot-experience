@@ -20,6 +20,8 @@
         "mechatroner.rainbow-csv"
       ],
       "settings": {
+        "locale": "en",
+        
         "livePreview.openPreviewTarget": "External Browser",
 
         // This experimental (as of 2 Sept) feature disables the automatic context attachment of current active file in Agent Mode
